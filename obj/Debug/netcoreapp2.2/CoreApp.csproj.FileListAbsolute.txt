@@ -1,0 +1,30 @@
+C:\Users\Dhiraj\source\repos\CoreApp\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Dhiraj\source\repos\CoreApp\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Dhiraj\source\repos\CoreApp\bin\Debug\netcoreapp2.2\CoreApp.deps.json
+C:\Users\Dhiraj\source\repos\CoreApp\bin\Debug\netcoreapp2.2\CoreApp.runtimeconfig.json
+C:\Users\Dhiraj\source\repos\CoreApp\bin\Debug\netcoreapp2.2\CoreApp.runtimeconfig.dev.json
+C:\Users\Dhiraj\source\repos\CoreApp\bin\Debug\netcoreapp2.2\CoreApp.dll
+C:\Users\Dhiraj\source\repos\CoreApp\bin\Debug\netcoreapp2.2\CoreApp.pdb
+C:\Users\Dhiraj\source\repos\CoreApp\bin\Debug\netcoreapp2.2\CoreApp.Views.dll
+C:\Users\Dhiraj\source\repos\CoreApp\bin\Debug\netcoreapp2.2\CoreApp.Views.pdb
+C:\Users\Dhiraj\source\repos\CoreApp\obj\Debug\netcoreapp2.2\CoreApp.AssemblyInfoInputs.cache
+C:\Users\Dhiraj\source\repos\CoreApp\obj\Debug\netcoreapp2.2\CoreApp.AssemblyInfo.cs
+C:\Users\Dhiraj\source\repos\CoreApp\obj\Debug\netcoreapp2.2\CoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Dhiraj\source\repos\CoreApp\obj\Debug\netcoreapp2.2\CoreApp.RazorAssemblyInfo.cache
+C:\Users\Dhiraj\source\repos\CoreApp\obj\Debug\netcoreapp2.2\CoreApp.RazorAssemblyInfo.cs
+C:\Users\Dhiraj\source\repos\CoreApp\obj\Debug\netcoreapp2.2\CoreApp.TagHelpers.input.cache
+C:\Users\Dhiraj\source\repos\CoreApp\obj\Debug\netcoreapp2.2\CoreApp.TagHelpers.output.cache
+C:\Users\Dhiraj\source\repos\CoreApp\obj\Debug\netcoreapp2.2\CoreApp.RazorCoreGenerate.cache
+C:\Users\Dhiraj\source\repos\CoreApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Dhiraj\source\repos\CoreApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Dhiraj\source\repos\CoreApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Dhiraj\source\repos\CoreApp\obj\Debug\netcoreapp2.2\CoreApp.RazorTargetAssemblyInfo.cache
+C:\Users\Dhiraj\source\repos\CoreApp\obj\Debug\netcoreapp2.2\CoreApp.RazorTargetAssemblyInfo.cs
+C:\Users\Dhiraj\source\repos\CoreApp\obj\Debug\netcoreapp2.2\CoreApp.Views.pdb
+C:\Users\Dhiraj\source\repos\CoreApp\obj\Debug\netcoreapp2.2\CoreApp.dll
+C:\Users\Dhiraj\source\repos\CoreApp\obj\Debug\netcoreapp2.2\CoreApp.pdb
+C:\Users\Dhiraj\source\repos\CoreApp\obj\Debug\netcoreapp2.2\CoreApp.genruntimeconfig.cache
+C:\Users\Dhiraj\source\repos\CoreApp\obj\Debug\netcoreapp2.2\CoreApp.csproj.CopyComplete
+C:\Users\Dhiraj\source\repos\CoreApp\obj\Debug\netcoreapp2.2\CoreApp.csprojAssemblyReference.cache
+C:\Users\vthumma3\OneDrive - DXC Production\Desktop\DXC TRAINING\training\CoreApp\obj\Debug\netcoreapp2.2\CoreApp.dll
+C:\Users\vthumma3\OneDrive - DXC Production\Desktop\DXC TRAINING\training\CoreApp\obj\Debug\netcoreapp2.2\CoreApp.pdb

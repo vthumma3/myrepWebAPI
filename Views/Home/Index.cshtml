@@ -1,0 +1,13 @@
+﻿@model CoreApp.ViewModels.EmployeeViewModel
+<h1> @Model.Title</h1>
+
+@foreach (var emp in Model.Employees)
+{
+    <div>
+
+        @emp.ID
+        @emp.Name
+        @emp.Salary
+    </div>
+}
+
